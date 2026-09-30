@@ -1,0 +1,13 @@
+transaction_id,customer_id,date,merchant,category,amount,currency,status
+1,C001,2026-09-01,Amazon,Shopping,129.99,CAD,completed
+2,C001,2026-09-03,Starbucks,Food,8.50,CAD,completed
+3,C001,2026-09-05,Air Canada,Travel,450.00,CAD,completed
+4,C002,2026-09-01,Amazon,Shopping,89.99,CAD,completed
+5,C002,2026-09-02,Netflix,Entertainment,22.99,CAD,completed
+6,C002,2026-09-10,Uber,Transport,35.40,CAD,completed
+7,C003,2026-09-01,Apple,Shopping,1299.99,CAD,completed
+8,C003,2026-09-04,Restaurant X,Food,125.00,CAD,completed
+9,C003,2026-09-08,Uber,Transport,41.25,CAD,failed
+10,C003,2026-09-09,Apple,Shopping,999.99,CAD,completed
+11,C004,2026-09-10,Unknown,Shopping,-50.00,CAD,completed
+12,C004,2026-09-11,Unknown,Shopping,200.00,CAD,unknown
